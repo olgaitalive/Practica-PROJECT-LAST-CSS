@@ -1,0 +1,43 @@
+/*.tag_product{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper-card{
+    color: green;
+}
+.wrapper-card{
+    color: green;
+    font-size: 50px;
+}
+.wrapper-card{
+    color: purple;
+}*/
+*{
+    background: red
+}
+p{
+    background: yellowgreen;
+}
+.product_descrpton{
+    background: pink;
+}
+.unique_descrpton-1{
+    background: skyblue;
+}
+#unique-product{
+    background: yellow;
+}
+li{
+    background: violet;
+}
+.wrapper-card{
+    background: green;
+}
+.wrapper-card p{
+    background: yellowgreen;
+}
+.wrapper-card{
+    color: coral;
+    font-size: 5px;
+}
